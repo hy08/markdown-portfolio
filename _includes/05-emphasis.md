@@ -1,5 +1,10 @@
 *abc*  
-_abc_
+_abc_  
+abc
 
 **abc**  
-__abc__  
+__abc__    
+abc
+
+_You **can** combine them_  
+You can combine them
