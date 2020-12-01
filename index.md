@@ -2,8 +2,20 @@
 layout: default
 ---
 
-- [x] Additional markup is supported, including @mentions, #references, [links](url), **emphasis**, and <del>HTML tags</del>.
-- [x] List syntax is required.
-  - You can nest lists below, too!
-- [x] This item is completed.
-- [ ] This item is not complete.
+{% include 01-name.md %}
+
+<br>
+
+{% include 02-image.md %}
+
+<br>
+
+{% include 03-links.md %}
+
+<br>
+
+{% include 04-lists.md %}
+
+<br>
+
+{% include 05-emphasis.md %}
